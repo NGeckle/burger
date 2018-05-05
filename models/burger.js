@@ -1,0 +1,1 @@
+// TODO When you declare value of devoured in js use .toLowerCase() and do if (devoured === "falsed") {devoured = 0};
