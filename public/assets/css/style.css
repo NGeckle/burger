@@ -1,0 +1,13 @@
+body {
+    background-color: #ffd11a;
+    font-family: 'Do Hyeon', sans-serif;
+}
+
+p {
+    font-size: 18px;
+}
+
+#burger {
+    background-color: #ffe680;
+    padding: 5px;
+}
